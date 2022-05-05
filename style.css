@@ -1,0 +1,27 @@
+
+.head{
+
+    background-color: green;
+   }
+   .container-fluid
+   {
+    background-color: purple;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+   }
+   .container-xxl
+   {
+       background-color:aqua;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .btn btn-primary
+   {
+       color: black;
+   }
+   .card
+   {
+    border-width: 5px;
+border-style: groove;
+border-color: black;
+   }
